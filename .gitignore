@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+.udacity-pa/
+__pycache__/
+assets/
+.zip
+.json
